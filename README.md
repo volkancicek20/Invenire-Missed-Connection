@@ -1,7 +1,7 @@
 # Invenire-Missed-Connection
 Android Studio - Java mobile app.
 
-Google play link : https://play.google.com/store/apps/details?id=com.socksapp.missedconnection
+Play Store: https://play.google.com/store/apps/details?id=com.socksapp.missedconnection
 
 Invenire, rastgele bir zamanda ve mekanda tanıştığınız kişilere daha sonra ulaşmanıza olanak tanıyan bir mobil uygulamadır. Uygulama, kullanıcıların tanıştıkları yerin zamanı, mekanı ve koordinatları gibi bilgileri girerek gönderi paylaşmasına ve bu bilgileri kullanarak benzer deneyimleri olan kişileri bulmasına olanak sağlar.
 
